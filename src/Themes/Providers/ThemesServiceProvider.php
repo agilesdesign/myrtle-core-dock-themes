@@ -10,8 +10,8 @@ use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Str;
-use Myrtle\Themes\Facades\Themes;
-use Myrtle\Themes\Support\Store;
+use Myrtle\Core\Themes\Facades\Themes;
+use Myrtle\Core\Themes\Support\Store;
 
 class ThemesServiceProvider extends ServiceProvider
 {
