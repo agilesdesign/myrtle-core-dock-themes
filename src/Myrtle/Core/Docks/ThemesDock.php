@@ -2,7 +2,7 @@
 
 namespace Myrtle\Core\Docks;
 
-use Myrtle\Themes\Providers\ThemesServiceProvider;
+use Myrtle\Core\Themes\Providers\ThemesServiceProvider;
 
 class ThemesDock extends Dock
 {
